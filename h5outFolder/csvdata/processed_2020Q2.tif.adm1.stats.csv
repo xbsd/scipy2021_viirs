@@ -1,0 +1,4 @@
+NAME_0,NAME_1,sum,mean,min,max,yrqtr,filename
+United States,Connecticut,233022.796875,2.90451002120972,0,135,2020Q2,processed_2020Q2.tif
+United States,Massachusetts,437172.28125,3.33203959465027,0,300,2020Q2,processed_2020Q2.tif
+United States,New York,1098765.75,1.27821373939514,0,284,2020Q2,processed_2020Q2.tif
