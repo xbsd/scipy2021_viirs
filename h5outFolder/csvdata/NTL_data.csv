@@ -1,0 +1,73 @@
+COUNTRY,STATE,VNP46_SOL,MEANX,MINX,MAXX,YRQTR,FILE_NAME
+United States,Connecticut,496752.4375,6.19176483154297,0,244,2015Q1,processed_2015Q1.tif
+United States,Connecticut,295939.40625,3.68873333930969,0,169,2015Q2,processed_2015Q2.tif
+United States,Connecticut,239009.671875,2.97913336753845,0,146,2015Q3,processed_2015Q3.tif
+United States,Connecticut,264615.34375,3.29829478263855,0,159,2015Q4,processed_2015Q4.tif
+United States,Connecticut,348955.71875,4.34955453872681,0,187,2016Q1,processed_2016Q1.tif
+United States,Connecticut,280826.78125,3.50036215782166,0,179,2016Q2,processed_2016Q2.tif
+United States,Connecticut,239244.421875,2.98205924034119,0,160,2016Q3,processed_2016Q3.tif
+United States,Connecticut,249943.03125,3.11541199684143,0,144,2016Q4,processed_2016Q4.tif
+United States,Connecticut,344022.34375,4.28806257247925,0,177,2017Q1,processed_2017Q1.tif
+United States,Connecticut,285142.4375,3.55415463447571,0,154,2017Q2,processed_2017Q2.tif
+United States,Connecticut,226883.046875,2.82798099517822,0,158,2017Q3,processed_2017Q3.tif
+United States,Connecticut,331400.03125,4.13073205947876,0,178,2017Q4,processed_2017Q4.tif
+United States,Connecticut,397753.8125,4.95779800415039,0,263,2018Q1,processed_2018Q1.tif
+United States,Connecticut,271334.875,3.38205051422119,0,164,2018Q2,processed_2018Q2.tif
+United States,Connecticut,205695.28125,2.56388640403748,0,151,2018Q3,processed_2018Q3.tif
+United States,Connecticut,239147.5,2.98085117340088,0,140,2018Q4,processed_2018Q4.tif
+United States,Connecticut,331595.40625,4.1331672668457,0,231,2019Q1,processed_2019Q1.tif
+United States,Connecticut,258598.5,3.22329807281494,0,149,2019Q2,processed_2019Q2.tif
+United States,Connecticut,219345.203125,2.73402571678162,0,300,2019Q3,processed_2019Q3.tif
+United States,Connecticut,250232.0625,3.11901473999023,0,217,2019Q4,processed_2019Q4.tif
+United States,Connecticut,294852.3125,3.67518329620361,0,152,2020Q1,processed_2020Q1.tif
+United States,Connecticut,233022.796875,2.90451002120972,0,135,2020Q2,processed_2020Q2.tif
+United States,Connecticut,206960.8125,2.57966065406799,0,126,2020Q3,processed_2020Q3.tif
+United States,Connecticut,248735.15625,3.1003565788269,0,136,2020Q4,processed_2020Q4.tif
+United States,Massachusetts,944136.5625,7.19601964950562,0,300,2015Q1,processed_2015Q1.tif
+United States,Massachusetts,548594.125,4.1812744140625,0,269,2015Q2,processed_2015Q2.tif
+United States,Massachusetts,426662.4375,3.25193572044373,0,233,2015Q3,processed_2015Q3.tif
+United States,Massachusetts,468233.65625,3.56878304481506,0,249,2015Q4,processed_2015Q4.tif
+United States,Massachusetts,666146,5.07723140716553,0,260,2016Q1,processed_2016Q1.tif
+United States,Massachusetts,524246.28125,3.9957001209259,0,243,2016Q2,processed_2016Q2.tif
+United States,Massachusetts,435959.125,3.32279300689697,0,277,2016Q3,processed_2016Q3.tif
+United States,Massachusetts,467442.65625,3.56275415420532,0,300,2016Q4,processed_2016Q4.tif
+United States,Massachusetts,643185.3125,4.90222978591919,0,279,2017Q1,processed_2017Q1.tif
+United States,Massachusetts,514833.46875,3.92395758628845,0,241,2017Q2,processed_2017Q2.tif
+United States,Massachusetts,408353.4375,3.11238813400269,0,230,2017Q3,processed_2017Q3.tif
+United States,Massachusetts,606264.1875,4.62082433700562,0,296,2017Q4,processed_2017Q4.tif
+United States,Massachusetts,756233.625,5.76386117935181,0,260,2018Q1,processed_2018Q1.tif
+United States,Massachusetts,509068.875,3.8800208568573,0,274,2018Q2,processed_2018Q2.tif
+United States,Massachusetts,390866.03125,2.97910261154175,0,300,2018Q3,processed_2018Q3.tif
+United States,Massachusetts,449567.71875,3.42651510238647,0,271,2018Q4,processed_2018Q4.tif
+United States,Massachusetts,648374.0625,4.94177722930908,0,300,2019Q1,processed_2019Q1.tif
+United States,Massachusetts,493693.21875,3.76283073425293,0,300,2019Q2,processed_2019Q2.tif
+United States,Massachusetts,417472.4375,3.18189120292664,0,300,2019Q3,processed_2019Q3.tif
+United States,Massachusetts,508844.25,3.87830901145935,0,300,2019Q4,processed_2019Q4.tif
+United States,Massachusetts,573510.1875,4.37117958068848,0,300,2020Q1,processed_2020Q1.tif
+United States,Massachusetts,437172.28125,3.33203959465027,0,300,2020Q2,processed_2020Q2.tif
+United States,Massachusetts,387418.84375,2.95282888412476,0,300,2020Q3,processed_2020Q3.tif
+United States,Massachusetts,438156.84375,3.33954358100891,0,300,2020Q4,processed_2020Q4.tif
+United States,New York,2151640.5,2.5030415058136,0,300,2015Q1,processed_2015Q1.tif
+United States,New York,1279678.75,1.48867297172546,0,281,2015Q2,processed_2015Q2.tif
+United States,New York,1072183.75,1.24729037284851,0,277,2015Q3,processed_2015Q3.tif
+United States,New York,1111862.375,1.29344928264618,0,299,2015Q4,processed_2015Q4.tif
+United States,New York,1589674.125,1.84929609298706,0,300,2016Q1,processed_2016Q1.tif
+United States,New York,1249400,1.45344913005829,0,300,2016Q2,processed_2016Q2.tif
+United States,New York,1067669,1.24203824996948,0,294,2016Q3,processed_2016Q3.tif
+United States,New York,1171962.625,1.36336493492126,0,300,2016Q4,processed_2016Q4.tif
+United States,New York,1545790.625,1.79824566841126,0,300,2017Q1,processed_2017Q1.tif
+United States,New York,1231316.875,1.43241274356842,0,296,2017Q2,processed_2017Q2.tif
+United States,New York,1030846.5625,1.19920206069946,0,290,2017Q3,processed_2017Q3.tif
+United States,New York,1432962.125,1.66699028015137,0,296,2017Q4,processed_2017Q4.tif
+United States,New York,1908915.625,2.22067546844482,0,299,2018Q1,processed_2018Q1.tif
+United States,New York,1223495,1.42331349849701,0,286,2018Q2,processed_2018Q2.tif
+United States,New York,960038.875,1.11683022975922,0,295,2018Q3,processed_2018Q3.tif
+United States,New York,1123394.75,1.30686509609222,0,289,2018Q4,processed_2018Q4.tif
+United States,New York,1650150.75,1.91964960098267,0,300,2019Q1,processed_2019Q1.tif
+United States,New York,1170434.625,1.36158740520477,0,287,2019Q2,processed_2019Q2.tif
+United States,New York,1003207,1.16704845428467,0,284,2019Q3,processed_2019Q3.tif
+United States,New York,1189296,1.38352918624878,0,300,2019Q4,processed_2019Q4.tif
+United States,New York,1406199.625,1.63585698604584,0,300,2020Q1,processed_2020Q1.tif
+United States,New York,1098765.75,1.27821373939514,0,284,2020Q2,processed_2020Q2.tif
+United States,New York,978567.9375,1.13838541507721,0,277,2020Q3,processed_2020Q3.tif
+United States,New York,1087510,1.26511967182159,0,300,2020Q4,processed_2020Q4.tif

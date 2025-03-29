@@ -1,0 +1,4 @@
+NAME_0,NAME_1,sum,mean,min,max,yrqtr,filename
+United States,Connecticut,344022.34375,4.28806257247925,0,177,2017Q1,processed_2017Q1.tif
+United States,Massachusetts,643185.3125,4.90222978591919,0,279,2017Q1,processed_2017Q1.tif
+United States,New York,1545790.625,1.79824566841126,0,300,2017Q1,processed_2017Q1.tif
